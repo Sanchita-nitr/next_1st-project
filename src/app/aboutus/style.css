@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(26, 11, 43);
+}
+
+.building {
+  background-image: url("https://www.hackodisha.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcityscape-1.9760960e.webp&w=640&q=75");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
+
+.page {
+  font-family: "Audiowide", sans-serif;
+}
+
+.about {
+  text-underline-offset: 20px;
+  text-decoration: underline;
+  text-decoration-color: rgba(64, 224, 208, 0.619);
+  text-decoration-thickness: 10px;
+}
+
+.para {
+  line-height: 10mm;
+  letter-spacing: 0.05px;
+}
